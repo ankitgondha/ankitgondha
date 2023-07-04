@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](<iframe src="https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6">via GIPHY</a></p>)]
 <h1 align="center">Hi 👋, I'm Ankit Gondha</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+ -->
+ <iframe align="right" src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitgondha&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgondha" /> </p>
 
@@ -14,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ankitgondha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ankitgondha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitgondha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitgondha" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/ankit-gondha-a18660242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitgondha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
