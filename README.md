@@ -1,9 +1,8 @@
 [![MasterHead](https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6)]
 <h1 align="center">Hi 👋, I'm Ankit Gondha</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
- -->
- <iframe align="right" src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitgondha&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgondha" /> </p>
 
