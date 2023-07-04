@@ -1,7 +1,7 @@
-[![MasterHead](<iframe src="https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6">via GIPHY</a></p>)]
+[![MasterHead](https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6)]
 <h1 align="center">Hi 👋, I'm Ankit Gondha</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
  -->
  <iframe align="right" src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
